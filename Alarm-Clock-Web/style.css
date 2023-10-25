@@ -80,6 +80,7 @@
     .wrapper{
         width: 100vw;
         padding: 5%;
+        margin: 5%;
       }
     
       .wrapper select{
